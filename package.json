@@ -16,7 +16,7 @@
     "@nuxtjs/sitemap": "^2.2.0",
     "dotenv": "^8.2.0",
     "normalize.css": "^8.0.1",
-    "nuxt": "^2.12.2",
+    "nuxt": "^3.4.3",
     "nuxt-typed-vuex": "^0.1.17",
     "sass-resources-loader": "^2.0.1",
     "tslib": "^1.11.1",
